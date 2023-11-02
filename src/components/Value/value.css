@@ -44,7 +44,7 @@
   font-size: 1.1rem;
 }
 
-.accordion.expanded {
+.accordionItem.expanded {
   box-shadow: var(--shadow);
   border-radius: 6px;
 }
