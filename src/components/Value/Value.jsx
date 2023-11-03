@@ -15,6 +15,7 @@ import data from "../../utils/Accordion";
 
 const Value = () => {
   const [className, setClassName] = useState(null);
+
   return (
     <div>
       <sectio className="v-wrapper">
